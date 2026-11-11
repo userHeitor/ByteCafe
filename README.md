@@ -1,4 +1,4 @@
-# ☕ ByteCafé
+# ByteCafé
 
 Loja virtual de cafés feita com JavaScript puro, Bootstrap e json-server.
 

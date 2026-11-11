@@ -1,0 +1,11 @@
+{
+  "name": "lojavirtual",
+  "version": "1.0.0",
+  "description": "ByteCafé: front end de uma loja de cafés com JavaScript puro e json-server",
+  "scripts": {
+    "start": "json-server db.json"
+  },
+  "dependencies": {
+    "json-server": "^1.0.0-beta.15"
+  }
+}

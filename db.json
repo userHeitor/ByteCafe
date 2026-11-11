@@ -1,0 +1,193 @@
+{
+  "cafes": [
+    {
+      "id": 1,
+      "title": "Black Coffee",
+      "description": "Café preto puro, feito apenas com grãos moídos e água quente. É simples e ideal para apreciar o sabor natural do café.",
+      "ingredients": ["Café"],
+      "price": 3.0,
+      "origin": "Receita clássica",
+      "image": "https://images.unsplash.com/photo-1494314671902-399b18174975?auto=format&fit=crop&q=80&w=800"
+    },
+    {
+      "id": 2,
+      "title": "Latte",
+      "description": "Uma mistura cremosa de espresso e leite vaporizado, com uma fina camada de espuma por cima. Pode ser servido puro ou com sabores adicionais, como baunilha ou caramelo.",
+      "ingredients": ["Espresso", "Leite vaporizado"],
+      "price": 4.5,
+      "origin": "Receita clássica",
+      "image": "https://images.unsplash.com/photo-1561882468-9110e03e0f78?auto=format&fit=crop&q=80&w=800"
+    },
+    {
+      "id": 3,
+      "title": "Cappuccino",
+      "description": "Espresso com leite vaporizado e uma camada grossa de espuma, muitas vezes finalizado com cacau ou canela.",
+      "ingredients": ["Espresso", "Leite vaporizado", "Espuma"],
+      "price": 5.0,
+      "origin": "Receita clássica",
+      "image": "https://images.unsplash.com/photo-1557006021-b85faa2bc5e2?auto=format&fit=crop&q=80&w=800"
+    },
+    {
+      "id": 4,
+      "title": "Americano",
+      "description": "Com sabor parecido ao do café preto, o americano é feito diluindo uma dose de espresso em água quente.",
+      "ingredients": ["Espresso", "Água quente"],
+      "price": 4.0,
+      "origin": "Receita clássica",
+      "image": "https://images.unsplash.com/photo-1532004491497-ba35c367d634?auto=format&fit=crop&q=80&w=800"
+    },
+    {
+      "id": 5,
+      "title": "Espresso",
+      "description": "Uma dose de espresso pode ser servida sozinha ou usada como base para a maioria das bebidas de café.",
+      "ingredients": ["Espresso"],
+      "price": 3.5,
+      "origin": "Receita clássica",
+      "image": "https://images.unsplash.com/photo-1579992357154-faf4bde95b3d?auto=format&fit=crop&q=80&w=800"
+    },
+    {
+      "id": 6,
+      "title": "Mocha",
+      "description": "Para os amantes de chocolate: espresso com chocolate, leite vaporizado e espuma.",
+      "ingredients": ["Espresso", "Leite vaporizado", "Chocolate"],
+      "price": 5.5,
+      "origin": "Receita clássica",
+      "image": "https://images.unsplash.com/photo-1607260550778-aa9d29444ce1?auto=format&fit=crop&q=80&w=800"
+    },
+    {
+      "id": 7,
+      "title": "Espresso Romano",
+      "description": "Espresso servido com uma casca de limão-siciliano na borda da xícara, que realça o aroma e suaviza o amargor. No sul da Itália também é chamado de caffè al limone.",
+      "ingredients": ["Espresso", "Casca de limão-siciliano"],
+      "price": 4.0,
+      "origin": "Cafés do sul da Itália",
+      "image": "https://images.unsplash.com/photo-1557772611-722dabe20327?auto=format&fit=crop&q=80&w=800"
+    },
+    {
+      "id": 8,
+      "title": "Bicerin",
+      "description": "Camadas de chocolate quente denso, espresso e creme de leite batido à mão, servidas num copinho de vidro. A regra da casa é não mexer.",
+      "ingredients": ["Chocolate amargo", "Espresso", "Creme de leite"],
+      "price": 8.5,
+      "origin": "Caffè al Bicerin, Turim (Itália)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/2016_1128_Turin_Bicerin_02.jpg/500px-2016_1128_Turin_Bicerin_02.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Cà Phê Trứng (Café com Ovo)",
+      "description": "Criado em 1946, quando faltava leite em Hanói: café forte coberto por um creme aveludado de gema batida com açúcar e leite condensado.",
+      "ingredients": ["Café vietnamita", "Gema de ovo", "Leite condensado", "Açúcar"],
+      "price": 7.5,
+      "origin": "Café Giảng, Hanói (Vietnã)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/C%C3%A0_ph%C3%AA_tr%E1%BB%A9ng.jpg/500px-C%C3%A0_ph%C3%AA_tr%E1%BB%A9ng.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Cà Phê Cốt Dừa (Café com Coco)",
+      "description": "Bebida gelada e cremosa: café vietnamita forte batido com leite de coco, leite condensado e gelo picado.",
+      "ingredients": ["Café vietnamita", "Leite de coco", "Leite condensado", "Gelo"],
+      "price": 7.0,
+      "origin": "Cộng Cà Phê, Hanói (Vietnã)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Coconut_cream_and_coffee.jpg/500px-Coconut_cream_and_coffee.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Café de Olla",
+      "description": "Café preparado em panela de barro com canela e piloncillo (rapadura mexicana), às vezes com casca de laranja.",
+      "ingredients": ["Café", "Canela", "Piloncillo", "Casca de laranja"],
+      "price": 5.5,
+      "origin": "México",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Caf%C3%A9_de_olla.jpg/500px-Caf%C3%A9_de_olla.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Café Bombón",
+      "description": "Espresso servido sobre uma camada de leite condensado em copo de vidro, formando duas camadas bem definidas. Mexa antes de beber.",
+      "ingredients": ["Espresso", "Leite condensado"],
+      "price": 5.0,
+      "origin": "Valência (Espanha)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Caf%C3%A9_Bomb%C3%B3n-Alicante.jpg/500px-Caf%C3%A9_Bomb%C3%B3n-Alicante.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Wiener Melange",
+      "description": "O café mais pedido nas cafeterias de Viena: metade café, metade leite vaporizado, com espuma de leite por cima.",
+      "ingredients": ["Espresso", "Leite vaporizado", "Espuma de leite"],
+      "price": 6.0,
+      "origin": "Café Central, Viena (Áustria)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Wiener_Melange_0363wien_img_9691.jpg/500px-Wiener_Melange_0363wien_img_9691.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Einspänner",
+      "description": "Café forte servido em copo alto com uma generosa camada de chantili sem açúcar, que mantém a bebida quente por mais tempo.",
+      "ingredients": ["Espresso duplo", "Chantili"],
+      "price": 6.5,
+      "origin": "Café Central, Viena (Áustria)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Einsp%C3%A4nner_Kaffee.jpg/500px-Einsp%C3%A4nner_Kaffee.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Mazagran",
+      "description": "O \"café com limonada\" de Portugal: espresso forte servido com gelo, suco de limão e açúcar. Refrescante para dias quentes.",
+      "ingredients": ["Espresso", "Suco de limão", "Açúcar", "Gelo"],
+      "price": 5.5,
+      "origin": "Portugal",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Caf%C3%A9_mazagran.jpg/500px-Caf%C3%A9_mazagran.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Espresso Tônica",
+      "description": "Espresso sobre água tônica gelada com um toque de xarope. Ficou famoso em 2007 com o nome Kaffe & Tonic.",
+      "ingredients": ["Espresso", "Água tônica", "Xarope de açúcar", "Gelo"],
+      "price": 7.0,
+      "origin": "Koppi, Helsingborg (Suécia)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Espresso_and_tonic%2C_COFFEE_CITEN%2C_Akiha%2C_Niigata%2C_Niigata%2C_Japan%2C_May_2023.jpg/500px-Espresso_and_tonic%2C_COFFEE_CITEN%2C_Akiha%2C_Niigata%2C_Niigata%2C_Japan%2C_May_2023.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Yuanyang",
+      "description": "Clássico das lanchonetes de Hong Kong: café misturado com chá preto e leite evaporado, servido quente ou gelado.",
+      "ingredients": ["Café", "Chá preto", "Leite evaporado", "Açúcar"],
+      "price": 6.0,
+      "origin": "Lan Fong Yuen, Hong Kong",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Yuanyang_%28drink%29.jpg/500px-Yuanyang_%28drink%29.jpg"
+    },
+    {
+      "id": 18,
+      "title": "Café Touba",
+      "description": "Café torrado e moído junto com grãos de selim (pimenta-da-guiné) e cravo, o que deixa o sabor picante e aromático.",
+      "ingredients": ["Café", "Grãos de selim", "Cravo", "Açúcar"],
+      "price": 5.0,
+      "origin": "Touba (Senegal)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Caf%C3%A9_Touba._Pouring.jpg"
+    },
+    {
+      "id": 19,
+      "title": "Café au Lait Descafeinado",
+      "description": "Versão sem cafeína do clássico de Nova Orleans: blend de café descafeinado com chicória torrada, misturado com leite quente em partes iguais.",
+      "ingredients": ["Café descafeinado", "Chicória", "Leite quente"],
+      "price": 6.0,
+      "origin": "Café du Monde, Nova Orleans (EUA)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Beignets_and_Caf%C3%A9_au_Lait_at_Caf%C3%A9_du_Monde%2C_New_Orleans.jpg/500px-Beignets_and_Caf%C3%A9_au_Lait_at_Caf%C3%A9_du_Monde%2C_New_Orleans.jpg"
+    },
+    {
+      "id": 20,
+      "title": "Menengiç Kahvesi",
+      "description": "Bebida sem cafeína feita com sementes torradas de terebinto, parente do pistache, preparada com leite. Lembra avelã, chocolate e pistache.",
+      "ingredients": ["Sementes de terebinto", "Leite", "Açúcar"],
+      "price": 6.5,
+      "origin": "Tahmis Kahvesi, Gaziantep (Turquia)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Terebinth_coffee_-_Menengi%C3%A7_kahvesi.jpg/500px-Terebinth_coffee_-_Menengi%C3%A7_kahvesi.jpg"
+    },
+    {
+      "id": 21,
+      "title": "Descafeinado con Leche",
+      "description": "Como se pede nos bares da Espanha: espresso descafeinado tirado na máquina (\"de máquina\", e não solúvel) com leite vaporizado.",
+      "ingredients": ["Espresso descafeinado", "Leite vaporizado"],
+      "price": 5.0,
+      "origin": "Bares da Espanha",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Taza_de_caf%C3%A9_con_leche.jpg/500px-Taza_de_caf%C3%A9_con_leche.jpg"
+    }
+  ]
+}
